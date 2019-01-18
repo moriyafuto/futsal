@@ -1,0 +1,2 @@
+class MatchApply < ApplicationRecord
+end
